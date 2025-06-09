@@ -11,5 +11,5 @@ preprocess.py
 *.pyc
 .DS_Store
 promptfoo.yaml
-
+test-api.py
 .vercel
