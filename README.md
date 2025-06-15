@@ -3,12 +3,12 @@
 A **Virtual Teaching Assistant** for the **Tools in Data Science** course at **IIT Madras** BS Degree in Data Science and Applications
 
 
-## 🧠 Data Sources
+## Data Sources
 
 - TDS Jan 2025 course content (as of 15 Apr 2025)
 - Discourse posts (1 Jan – 14 Apr 2025)
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - FastAPI (for backend API)
 - LangChain (RAG pipeline)
@@ -16,9 +16,8 @@ A **Virtual Teaching Assistant** for the **Tools in Data Science** course at **I
 - FAISS / other vector store
 - Vercel (for deployment)
 
-## 📁 Project Structure
+## Project Structure
 <pre><code> 
-
 project/
 ├── downloaded_threads/       # Raw Discourse threads
 ├── markdown_files/           # Processed course content
@@ -29,5 +28,6 @@ project/
 └── vercel.json               # Vercel config
  </code></pre>
 
-## 🪪 License
-MIT
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
