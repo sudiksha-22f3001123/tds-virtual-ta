@@ -1,4 +1,4 @@
-# TDS Virtual TA – IIT Madras
+# TDS Virtual TA 
 
 A Virtual Teaching Assistant for the Tools in Data Science course at IIT Madras. 
 
