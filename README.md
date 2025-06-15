@@ -27,7 +27,7 @@ project/
 ├── requirements.txt          # Dependencies
 └── vercel.json               # Vercel config
 
-<pre><code> ## 📁 Project Structure ``` 
+<pre><code> 
 
 project/
 ├── downloaded_threads/       # Raw Discourse threads
@@ -37,7 +37,7 @@ project/
 ├── .env                      # API keys, etc.
 ├── requirements.txt          # Dependencies
 └── vercel.json               # Vercel config
- ``` </code></pre>
+ </code></pre>
 
 ## 🪪 License
 MIT
