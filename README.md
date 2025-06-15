@@ -27,14 +27,7 @@ project/
 ├── requirements.txt          # Dependencies
 └── vercel.json               # Vercel config
 
-project/
-├── downloaded_threads/ # Raw Discourse thread dumps
-├── markdown_files/ # Cleaned course content (markdown)
-├── preprocess.py # Script for preprocessing data
-├── app.py # FastAPI backend (API endpoint)
-├── .env # Environment variables (API keys, etc.)
-├── requirements.txt # Python dependencies
-└── vercel.json # Vercel deployment config
+<pre><code>## 📁 Project Structure ``` project/ ├── downloaded_threads/ # Raw Discourse thread dumps ├── markdown_files/ # Cleaned course content (markdown) ├── preprocess.py # Script for preprocessing data ├── app.py # FastAPI backend (API endpoint) ├── .env # Environment variables (API keys, etc.) ├── requirements.txt # Python dependencies └── vercel.json # Vercel deployment config ``` </code></pre>
 
 ## 🪪 License
 MIT
