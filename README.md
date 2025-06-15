@@ -19,13 +19,13 @@ A Virtual Teaching Assistant for the Tools in Data Science course at IIT Madras 
 ## 📁 Project Structure
 
 project/
-├── downloaded_threads/ # Raw Discourse threads
-├── markdown_files/ # Processed course content
-├── preprocess.py # Data prep script
-├── app.py # FastAPI app
-├── .env # API keys, etc.
-├── requirements.txt # Dependencies
-└── vercel.json # Vercel config
+├── downloaded_threads/       # Raw Discourse threads
+├── markdown_files/           # Processed course content
+├── preprocess.py             # Data prep script
+├── app.py                    # FastAPI app
+├── .env                      # API keys, etc.
+├── requirements.txt          # Dependencies
+└── vercel.json               # Vercel config
 
 ## 🪪 License
 MIT
