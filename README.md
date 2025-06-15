@@ -18,14 +18,15 @@ A **Virtual Teaching Assistant** for the **Tools in Data Science** course at **I
 
 ## Project Structure
 <pre><code> 
-project/
-├── downloaded_threads/       # Raw Discourse threads
-├── markdown_files/           # Processed course content
-├── preprocess.py             # Data prep script
-├── app.py                    # FastAPI app
-├── .env                      # API keys, etc.
-├── requirements.txt          # Dependencies
-└── vercel.json               # Vercel config
+ project/
+├── downloaded_threads/     # Directory for storing downloaded Discourse threads
+├── markdown_files/         # Directory for storing processed markdown files
+├── .env                    # Environment variables (API keys, etc.)
+├── preprocess.py           # Script for data collection and preprocessing
+├── app.py                  # FastAPI application entry point
+├── requirements.txt        # Python dependencies
+├── .gitignore              # Git ignore file
+└── vercel.json             # Vercel deployment configuration
  </code></pre>
 
 ## License
