@@ -1,6 +1,6 @@
 # TDS Virtual TA 
 
-A Virtual Teaching Assistant for the Tools in Data Science course at IIT Madras. 
+A Virtual Teaching Assistant for the Tools in Data Science course at IIT Madras BS Degree in Data Science and Applications
 
 
 ## 🧠 Data Sources
